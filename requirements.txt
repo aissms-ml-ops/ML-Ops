@@ -1,0 +1,5 @@
+pandas
+numpy
+mlflow #ml model orchestration
+scikit-learn
+psycopg2 #postgre API for local machine, for container use psycopg2-binary (check)
